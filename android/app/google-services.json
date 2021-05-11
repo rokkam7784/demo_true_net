@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203168591883",
+    "project_id": "truenet-bbeca",
+    "storage_bucket": "truenet-bbeca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203168591883:android:c2266c64046696794f170e",
+        "android_client_info": {
+          "package_name": "com.example.true_net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203168591883-3kpg2r484sj9qe3npmopuajk5lmkrrei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJOSpUu06wp7IDQgVWAiBG1jVI4f86UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203168591883-3kpg2r484sj9qe3npmopuajk5lmkrrei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
