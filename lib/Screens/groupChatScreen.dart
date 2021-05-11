@@ -59,7 +59,7 @@ class _GroupChatScreenState extends State<GroupChatScreen> {
                   ),
                   GestureDetector(
                     onTap: () {
-                      //Implement send functionality.
+                      //Implgit initement send functionality.
                       _firestore.collection('groupMsg').add(
                           {'text': messageText, 'sender': loggedInUser.email});
                     },
